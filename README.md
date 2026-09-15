@@ -3,10 +3,10 @@
 
 The files in this folder are meant to help build familiarity with the python version of the JWST Exposure Time Calculator, pandeia.  Relevant resources are linked in the notebooks.  The files should be explored in this order:
 
-1. `basics-pandeia.ipynb`
-   --> creates setup.json & result.pkl files
-2. `jwst-sim-corrected.ipynb`
-   --> uses setup.json & result.pkl files
+1. `basics-pandeia.ipynb`  
+   --> creates setup.json & result.pkl files  
+2. `jwst-sim-corrected.ipynb`  
+   --> uses setup.json & result.pkl files  
    --> creates simulated_....noise.txt ETC spectrum file
 
 
@@ -24,6 +24,6 @@ This makes it easier to adjust a single thing and hit the ground running faster.
 
 If there are any questions or if there is a bug in the code, feel free to reach out!
 
-Taylor Hutchison
-Research Fellow, UT Austin
+Taylor Hutchison  
+Research Fellow, UT Austin  
 astro.hutchison@gmail.com
