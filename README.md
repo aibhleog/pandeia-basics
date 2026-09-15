@@ -1,7 +1,7 @@
 
 ## PANDEIA BASICS FOR SPECTRA
 
-The files in this folder are meant to help build familiarity with the python version of the JWST Exposure Time Calculator, pandeia.  Relevant resources are linked in the notebooks.  The files should be explored in this order:
+The files in this repo are meant to help build familiarity with the python version of the JWST Exposure Time Calculator, [`pandeia`](https://jwst-docs.stsci.edu/jwst-exposure-time-calculator-overview/jwst-etc-pandeia-engine-tutorial#gsc.tab=0).  Relevant resources are linked in the notebooks.  The files should be explored in this order:
 
 1. `basics-pandeia.ipynb`  
    --> creates setup.json & result.pkl files  
